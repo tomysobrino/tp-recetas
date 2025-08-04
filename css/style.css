@@ -1,0 +1,11 @@
+.hero-img img {
+    max-height: 400px;
+    object-fit: cover;
+}
+
+
+.img-category {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
