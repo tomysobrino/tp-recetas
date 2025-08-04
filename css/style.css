@@ -21,3 +21,8 @@
     display: block;
     
 }
+
+.receta-img {
+    height: 230px;
+    object-fit: cover;
+}
